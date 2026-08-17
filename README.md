@@ -1,3 +1,3 @@
 # Demo
 
-Opis vezba za git
+Opis vezba za git!
